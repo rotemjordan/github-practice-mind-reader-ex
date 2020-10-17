@@ -24,6 +24,7 @@ function App() {
   return (
     <>
       <h1>My first app</h1>
+      <h2>she-codes-test-branch</h2>
       <p className="multiline">{readPersonMind(person)}</p>
     </>
   );
