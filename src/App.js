@@ -22,7 +22,10 @@ function readPersonMind(person){
 
 function App() {
   return (
-  <p className="multiline">{readPersonMind(person)}</p>
+    <>
+      <h1>My first app</h1>
+      <p className="multiline">{readPersonMind(person)}</p>
+    </>
   );
 }
 
