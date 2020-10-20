@@ -25,6 +25,7 @@ function App() {
     <>
       <h1>My first app</h1>
       <h2>she-codes-test-branch</h2>
+      <h2>adding changes to my code.....</h2>
       <p className="multiline">{readPersonMind(person)}</p>
     </>
   );
