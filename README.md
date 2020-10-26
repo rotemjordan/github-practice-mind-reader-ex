@@ -3,7 +3,7 @@ we are now demoing commit to branch
 added one change for test on terminal
 added change to demo comit from main
 
-adding another change to readme
+creating a conflict in readme
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
