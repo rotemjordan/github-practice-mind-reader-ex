@@ -1,3 +1,8 @@
+this is a readme file for our first project
+we are now demoing commit to branch
+added one change for test on terminal
+added change to demo comit from main
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
